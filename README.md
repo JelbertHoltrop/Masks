@@ -1,5 +1,5 @@
 # Masks
-At this moment face masks against the corona virus are in short supply. 
+At this moment face masks against the virus are in short supply. 
 This project is to design an effective mask that can be made by anyone.
 
 Basis for the virus protection filter can be: https://www.nature.com/articles/srep39956
